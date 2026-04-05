@@ -49,7 +49,7 @@ Comparison of model performance and interactive prediction using ipywidgets.
 The machine learning model successfully predicts high-priority incidents, enabling proactive issue resolution and improving IT service management efficiency.
 
 ## Project Structure
-'''
+```
 ITSM-Incident-Prediction/
 │── ITSM.ipynb
 │── README.md
@@ -62,7 +62,7 @@ ITSM-Incident-Prediction/
 │   ├── EDA6.png
 │   ├── 7.png
 │   ├── 8.png
-'''
+```
 ## Tools Used
 - Python
 - Pandas
